@@ -1,0 +1,10 @@
+c:\users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\bin\Debug\xls2xlsx.exe.config
+c:\users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\obj\Debug\xls2xlsx.csprojResolveAssemblyReference.cache
+c:\users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\obj\Debug\xls2xlsx.csproj.ResolveComReference.cache
+c:\users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\obj\Debug\xls2xlsx.Form1.resources
+c:\users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\obj\Debug\xls2xlsx.Properties.Resources.resources
+c:\users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\obj\Debug\xls2xlsx.csproj.GenerateResource.Cache
+C:\Users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\bin\Debug\xls2xlsx.exe
+C:\Users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\bin\Debug\xls2xlsx.pdb
+C:\Users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\obj\Debug\xls2xlsx.exe
+C:\Users\martinm\documents\visual studio 2012\Projects\xls2xlsx\xls2xlsx\obj\Debug\xls2xlsx.pdb
